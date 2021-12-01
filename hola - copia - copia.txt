@@ -1,2 +1,0 @@
-hola soy un archivo de texto
-hola soy una línea azul
