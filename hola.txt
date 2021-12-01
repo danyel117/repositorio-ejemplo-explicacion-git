@@ -1,3 +1,4 @@
 hola soy un archivo de texto
 hola ya soy verde
 soy verde y a ademas naranja
+soy verde, rojo y naranja
